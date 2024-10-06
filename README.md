@@ -35,7 +35,7 @@ and save this list to the `.txt` file
   - To start a **.jar** file with terminal use:
 ```
       git clone https://github.com/ArMazur/Meal_Planner.git
-      cd Meal_Planner
+      cd MealPlanner/out/artifacts/MealPlanner_jar
       java -jar MealPlanner.jar
 ```
 
