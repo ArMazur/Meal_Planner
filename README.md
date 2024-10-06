@@ -32,11 +32,12 @@ and save this list to the `.txt` file
   
 - After installing PostgreSQL, create **meals_db** database.
 - You can start application with using **.jar** file or using your preffered IDE
-- To start a **.jar** file with terminal use:
-    - `git clone https://github.com/ArMazur/Meal_Planner.git`
-    - `cd Meal_Planner`
-    - `java -jar MealPlanner.jar`
-
+  - To start a **.jar** file with terminal use:
+```
+      git clone https://github.com/ArMazur/Meal_Planner.git
+      cd Meal_Planner
+      java -jar MealPlanner.jar
+```
 
 - After this program will start and prompt you with:
 
