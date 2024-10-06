@@ -7,8 +7,8 @@ import java.util.List;
 public final class Database {
 
     private static final String URL = "jdbc:postgresql:meals_db";
-    private static final String USER = "postgres";
-    private static final String PASS = "1111";
+    private static final String USER = System.getenv("USER");
+    private static final String PASS = System.getenv("PASS");
     private static int ingredient_id = 1;
 
     public Database() {
