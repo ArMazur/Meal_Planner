@@ -23,6 +23,7 @@ and save this list to the `.txt` file
 
 ### How to start the application:
 
+- Install [Java JDK](https://www.oracle.com/java/technologies/downloads/#java21) version 17 or later
 - **To start the application you need to install PostgreSQL on your machine**
 
     By default:
